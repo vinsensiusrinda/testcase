@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Yes</name>
+   <tag></tag>
+   <elementGuidId>ec8c47a6-ac8c-43b4-92d1-7c2eab556e76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-1']/div[2]/div[14]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.radio-inline.pay-camp-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d6acec64-d9c1-40d0-a4a9-5da9510a005d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-inline pay-camp-btn</value>
+      <webElementGuid>daa513ea-4653-4158-84d1-a70e97b162be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Yes                                                
+            </value>
+      <webElementGuid>c131aa3d-487c-4dfa-a675-bdd3ade79555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;panel-body col-sm-12&quot;]/div[@class=&quot;form-group pay-form&quot;]/div[@class=&quot;col-sm-8&quot;]/label[@class=&quot;radio-inline pay-camp-btn&quot;]</value>
+      <webElementGuid>f4506051-c736-4dd2-bc94-c3077a07c068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-1']/div[2]/div[14]/div/label</value>
+      <webElementGuid>08ad6603-c467-4363-a1cf-cf0006c49e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered for VAT?'])[1]/following::label[1]</value>
+      <webElementGuid>3478a3e5-4fa1-4dfa-84f3-61c6507cee85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::label[2]</value>
+      <webElementGuid>0a87bc0a-8203-4f80-a30d-d5a3896c7040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select NO if not applicable in your jurisdiction'])[1]/preceding::label[2]</value>
+      <webElementGuid>373c3afb-702c-476e-a33e-1fe01d775748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/label</value>
+      <webElementGuid>d2f7052f-ca4b-4972-84fa-9c23330a07da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                Yes                                                
+            ' or . = '
+                Yes                                                
+            ')]</value>
+      <webElementGuid>fc6d4db0-8930-4b13-8110-78b3df179a58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Support_icon</name>
+   <tag></tag>
+   <elementGuidId>9fbedc23-6b2d-4636-a12b-caeadce177b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='container']/header/div/div[3]/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-icon.dropdown.mp-user > span.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f46c217f-f4ce-4f71-b1a4-90a0f31c1a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>33140449-c1bc-4ec1-addb-2fd0f8f90ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/header[@class=&quot;header as-if-header&quot;]/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav-2 header-right-nav-2&quot;]/ul[@class=&quot;header-menu-grouping-2&quot;]/li[4]/a[@class=&quot;menu-icon dropdown mp-user&quot;]/span[@class=&quot;icon&quot;]</value>
+      <webElementGuid>ece6068a-93dd-4bdf-88f6-e480c8a659e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='container']/header/div/div[3]/ul/li[4]/a/span</value>
+      <webElementGuid>888738bd-293e-4ea9-89cc-2d7d2779c8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a/span</value>
+      <webElementGuid>7048cd68-1154-45b1-b542-c1ce95f490aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
